@@ -1,7 +1,8 @@
 .app {
-min-height: 100vh;
-background:url('../assets/thalapthy.webp')  no-repeat center center/cover;
-padding: 20px;
+    min-height: 100vh;
+    background-image: url('../assets/movie.jpeg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    padding: 20px;
 }
-  
-  

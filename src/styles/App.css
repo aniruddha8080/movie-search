@@ -29,7 +29,7 @@ min-height: 100vh;
   }
   .movie-details img {
     width: 200px;
-    border-radius: 10px;
+    border-radius: 15px;
   }
   .movie-details p {
     margin: 5px 0;

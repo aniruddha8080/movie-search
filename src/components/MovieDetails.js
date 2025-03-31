@@ -9,6 +9,8 @@ const MovieDetails = ({ movie }) => {
       <p><strong>Released:</strong> {movie.Released}</p>
       <p><strong>IMDb Rating:</strong> {movie.imdbRating}</p>
       <p><strong>Plot:</strong> {movie.Plot}</p>
+      <p><strong>Director: </strong>{movie.Director}</p>
+      <p><strong>Genre:</strong>{movie.Genre}</p>
     </div>
   );
 };
